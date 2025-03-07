@@ -1,6 +1,6 @@
 # Hi, I'm Gautam Bansal! 👋
 
-### 🚀 Software Engineer | Frontend Developer | Blockchain Enthusiast
+### 🚀 Software Engineer | Frontend Developer
 
 I'm a passionate software engineer with a strong focus on frontend development. I love building scalable applications and optimizing performance.
 
