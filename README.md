@@ -2,7 +2,7 @@
 
 ### 🚀 Software Engineer | Frontend Developer | Blockchain Enthusiast
 
-I'm a passionate software engineer with a strong focus on frontend development, React, GraphQL, and blockchain technologies. I love building scalable applications and optimizing performance.
+I'm a passionate software engineer with a strong focus on frontend development. I love building scalable applications and optimizing performance.
 
 ### 💼 Experience
 - **Toddle** - Frontend Developer Intern
